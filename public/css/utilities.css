@@ -1,0 +1,36 @@
+/* */
+.bg-primary {
+    background: #28a745;
+    color: #fff;
+}
+
+.bg-secundary {
+    background: #0284d0;
+    color: #fff;
+}
+
+.bg-dark {
+    background: #333;
+    color: #fff;
+}
+
+ .bg-ligth {
+    background: #ccc;
+    color: #333;
+}
+
+.bg-color {
+    background:var(--color-celeste);
+}
+
+.btn-outline {
+    background: transparent;
+    border: 1px solid #fff ;
+}
+
+/* Icons */
+.fa-bars {
+    background-color: #03264C ;
+    color: #ebebeb;
+}
+
